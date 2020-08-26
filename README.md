@@ -26,6 +26,8 @@ Figure out what you need to change to give Javascript access to the `h1#header` 
 
 **YOUR NOTES**
 ```
+I put getElementById because the header had the id of header
+
 
 ```
 
@@ -35,6 +37,7 @@ Now that you have access to the `h1#header` element, use Javascript to change th
 
 **YOUR NOTES**
 ```
+Called on the variable that I had made that included the header. from there I changed the style and color to red
 
 ```
 
